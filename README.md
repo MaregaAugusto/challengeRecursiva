@@ -37,7 +37,3 @@ Ahora necesitamos instala la librería ***pandas***
 una ves instalada la librería, volvemos a la carpeta donde se encuentra el archivo **Controlador.py** y ejecutamos el archivo con el siguiente comando
 
     python Controlador.py
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTA1Njc3OSwtMTgwODQ1ODA3NF19
--->
