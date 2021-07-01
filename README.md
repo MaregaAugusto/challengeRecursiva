@@ -16,7 +16,14 @@ Entrar en la carpeta **dist**, comprobar que el archivo **socios.csv** se encuen
 Una vez ingresa el valor presione enter y se mostrara los resultados
 
 ## Correr el programa desde el código
-Primero deberá clonar el código en su maquina, luego situarse con la consola a la altura del archivo **Controlador.py** y crear un entorno virtual (asegurece de tener instalado py)
+Primero deberá clonar el código en su maquina, luego situarse con la consola a la altura del archivo **Controlador.py** y crear un entorno virtual (asegúrese de tener instalado python)
+Ejecute el siguiente comando 
+
+    pip install virtualenv
+Esperamos que se instale
+
+    python -m virtualenv (nombreDelEntorno
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjI2MjgxMSwtMTgwODQ1ODA3NF19
+eyJoaXN0b3J5IjpbOTY1Mzc5Nzg2LC0xODA4NDU4MDc0XX0=
 -->
