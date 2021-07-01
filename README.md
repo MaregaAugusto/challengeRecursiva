@@ -25,8 +25,12 @@ Esperamos que se instale
     python -m virtualenv *nombreDelEntorno*
 Luego nos dirigimos a la carpeta **nombreDelEntorno/Scripts**
 
-    cd 
+    cd nombreDelEntorno/Scripts
+y ejecutamos el comando
+	
 
+    activate
+volvemos a la carpeta donde se encuentra el archivo **Controlador.py** y ej
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg5MjI1OTc0LC0xODA4NDU4MDc0XX0=
+eyJoaXN0b3J5IjpbMTUwNzU5NTYzMywtMTgwODQ1ODA3NF19
 -->
