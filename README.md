@@ -22,8 +22,11 @@ Ejecute el siguiente comando
     pip install virtualenv
 Esperamos que se instale
 
-    python -m virtualenv (nombreDelEntorno
+    python -m virtualenv *nombreDelEntorno*
+Luego nos dirigimos a la carpeta **nombreDelEntorno/Scripts**
+
+    cd 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1Mzc5Nzg2LC0xODA4NDU4MDc0XX0=
+eyJoaXN0b3J5IjpbMzg5MjI1OTc0LC0xODA4NDU4MDc0XX0=
 -->
