@@ -3,7 +3,7 @@ import pandas as pd
 
 class LectorCsv():
 	"""
-	Esta clase se encarga de tratar los datos optenidos
+	Esta clase se encarga de tratar los datos obtenidos
 	de un archivo csv
 	"""
 	def __init__(self, archivo):
@@ -49,7 +49,7 @@ class LectorCsv():
 		"""
 		datosEquipoEdades = self.__datos[["equipo","edad"]]
 		equipoSocios = datosEquipoEdades["equipo"].value_counts()
-		datosEquipo = equipoSocios.to_frame(name='numSocios')
+		datosEquipo = equipoSocios.to_frame(name='cantidadSocios')
 		datosEquipo[["edadPromedio","edadMinima","edadMaxima"]]=0
 		
 		for x in (datosEquipo.index):
