@@ -30,8 +30,13 @@ y ejecutamos el comando
 	
 
     activate
-Ahora necesitamos instala la librería
-volvemos a la carpeta donde se encuentra el archivo **Controlador.py** y ej
+Ahora necesitamos instala la librería ***pandas***
+
+    pip install pandas
+
+una ves instalada la librería, volvemos a la carpeta donde se encuentra el archivo **Controlador.py** y ejecutamos el archivo con el siguiente comando
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTMzNTEyLC0xODA4NDU4MDc0XX0=
+eyJoaXN0b3J5IjpbLTEwMTI2OTg5OTUsLTE4MDg0NTgwNzRdfQ
+==
 -->
