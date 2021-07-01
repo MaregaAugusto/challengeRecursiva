@@ -30,7 +30,8 @@ y ejecutamos el comando
 	
 
     activate
+Ahora necesitamos instala la librería
 volvemos a la carpeta donde se encuentra el archivo **Controlador.py** y ej
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzU5NTYzMywtMTgwODQ1ODA3NF19
+eyJoaXN0b3J5IjpbLTEwOTMzNTEyLC0xODA4NDU4MDc0XX0=
 -->
