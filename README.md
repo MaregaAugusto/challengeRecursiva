@@ -14,7 +14,9 @@ Entrar en la carpeta **dist**, comprobar que el archivo **socios.csv** se encuen
 >Ingrese el número de de la opción:
 
 Una vez ingresa el valor presione enter y se mostrara los resultados
-Correr el programa des
+
+## Correr el programa desde el código
+Primero deberá clonar el código en su maquina, luego situarse con la con 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2MzM3MTI0LC0xODA4NDU4MDc0XX0=
+eyJoaXN0b3J5IjpbNjA0NTA1MDc1LC0xODA4NDU4MDc0XX0=
 -->
