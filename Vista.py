@@ -11,7 +11,8 @@ class Vista():
 			'Edad promedio socios Racing',
 			'Listado de personas casadas y estudio universitario',
 			'5 nombre mas comunes entre los hinchas de River',
-			'Listado: Equipo-Cantidad de socios- Edad promedio - Edad mínima - Edad máxima')
+			'Listado: Equipo-Cantidad de socios- Edad promedio - Edad mínima - Edad máxima',
+			'exit')
 
 	def main(self):
 		"""
@@ -21,12 +22,9 @@ class Vista():
 		"""
 		os.system('cls')
 		print('Challenge Recursiva')
-		print('1) '+self.__opciones[0])
-		print('2) '+self.__opciones[1])
-		print('3) '+self.__opciones[2])
-		print('4) '+self.__opciones[3])
-		print('5) '+self.__opciones[4])
-		print('6) Exit')
+
+		for i in range(6):
+			print(f'{i+1}) {self.__opciones[i]}')
 		return input("Ingrese el número de de la opción: ")
 	
 	def resultados(self, resultado, titulo):
