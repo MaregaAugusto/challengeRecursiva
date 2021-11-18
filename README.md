@@ -1,4 +1,4 @@
-# Challenge Recursiva
+# Challenge 
 Se solicitaba leer un archivo .csv y mostrar información por consola, para mas detalle leer el archivo Challenge - Superliga.pdf adjunto
 
 ## Ejecución del programa
@@ -38,5 +38,5 @@ una ves instalada la librería, volvemos a la carpeta donde se encuentra el arch
 
     python Controlador.py
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDUyNjIwNTFdfQ==
+eyJoaXN0b3J5IjpbMTI0MjU0NTcyMywtMjE0NTI2MjA1MV19
 -->
